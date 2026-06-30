@@ -51,18 +51,6 @@ Determine which of the 4 new interface versions produce a statistically signific
 
 🔗 [A/B Testing Significance — Tableau Public](https://public.tableau.com/app/profile/anna.savchuk6598/viz/Signification/Significance?publish=yes)
 
-*(add a dashboard screenshot here)*
-
-## Repository Structure
-
-```
-├── Portfolio_2_AB_Testing.ipynb   # Full analysis
-├── README.md                      # Project overview (this file)
-└── ab_testing_results.csv         # Results across all segments and tests
-```
-
-## How to Reproduce
-
 1. Open the notebook in Google Colab
 2. Mount Google Drive and point to `test_info.csv`
 3. Run cells sequentially — significance calculation → results aggregation → CSV export
